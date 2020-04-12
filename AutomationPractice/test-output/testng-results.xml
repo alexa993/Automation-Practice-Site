@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="8" total="9" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-04-08T21:36:19 CEST" name="Default suite" finished-at="2020-04-08T21:36:34 CEST" duration-ms="14409">
+    <groups>
+    </groups>
+    <test started-at="2020-04-08T21:36:19 CEST" name="Default test" finished-at="2020-04-08T21:36:34 CEST" duration-ms="14409">
+      <class name="com.automationpractice.TestAutomation">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.automationpractice.TestAutomation@78047b92]" started-at="2020-04-08T21:36:19 CEST" name="beforeMethod" finished-at="2020-04-08T21:36:25 CEST" duration-ms="5736" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="screenshotElement()[pri:0, instance:com.automationpractice.TestAutomation@78047b92]" started-at="2020-04-08T21:36:25 CEST" name="screenshotElement" finished-at="2020-04-08T21:36:33 CEST" duration-ms="7605" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshotElement -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.automationpractice.TestAutomation@78047b92]" started-at="2020-04-08T21:36:33 CEST" name="afterMethod" finished-at="2020-04-08T21:36:34 CEST" duration-ms="932" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.automationpractice.TestAutomation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
